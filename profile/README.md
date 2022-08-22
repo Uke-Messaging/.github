@@ -28,3 +28,7 @@ Uke aims to be the global, web3 standard for messaging and communication. It has
 3. Anonymity - since each user is essentially just a cryptographic key paired with an id, user’s can easily stay anonymous on and off chain if they so wish to choose.
 
 ## Team / Contributors
+
+### Team members
+
+- Bader Youssef - Team Lead, Architect, and Fullstack Developer.
